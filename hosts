@@ -1,0 +1,17 @@
+#version 20191225
+#url=https://github.com/gorwayne/tiger_hosts
+
+#导航系统
+117.50.96.238   daohang.tiger.com
+
+#TJect项目管理系统演示站
+117.50.96.238   demo.tject.cn
+
+#TJect项目管理
+117.50.96.238   pm.tiger.com
+
+#TJect项目管理系统演示站
+117.50.96.238   git.tiger.com
+
+#TJect官方网站
+117.50.96.238   www.tject.cn
